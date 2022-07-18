@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+
+
+
+.rc-slider-track{
+    background-color: transparent;
+}
+
+.rc-slider-rail{
+    height: 8px;
+}
+.rc-slider-handle,
+.rc-slider-handle:active,
+.rc-slider-handle:focus,
+.rc-slider-handle:hover{
+    background-color: rgb(0, 0, 0);
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: none;
+    width: 13px;
+    height: 13px;
+    margin-top: -3px;
+}
